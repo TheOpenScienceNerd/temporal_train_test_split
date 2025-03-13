@@ -15,6 +15,20 @@
 
 The materials have been made available under an [MIT license](LICENCE).  The materials are as-is with no liability for the author. Please provide credit if you reuse the code in your own work.
 
+## Citation
+
+If you reuse any of the code, or the tutorial helps you work, please provide a citation.
+
+```bibtex
+@software{TheOpenScienceNerd_TsSplit
+author = {Monks, Thomas },
+license = {MIT},
+title = {{TheOpenScienceNerd - introduction to time series train test split}},
+url = {https://github.com/TheOpenScienceNerd/temporal_train_test_split}
+}
+```
+
+
 ## Installation instructions
 
 ### Installing dependencies
