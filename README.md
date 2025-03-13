@@ -3,13 +3,13 @@
 
 # A tutorial on time series (temporal) train-test split
 
-🎓 This tutorial aims to support beginners to forecasting learn how to perform a basic temporal train test split of a time series.  By following the tutorial you will build:
+🎓 This tutorial aims to support beginners to forecasting learn how to perform a basic temporal train test split of a time series.  By following the tutorial you will:
 
-* ✅ Practical experience of how to perform a basic train test split of a univariate time series;
+* ✅ Gain practical experience of how to perform a basic train test split of a univariate time series;
 * ✅ Understand why you might consider a more advanced train-validation-test split;
-* ✅ Hands on experience of using both strategies to evaluate simple ARIMA models.
+* ✅ Build hands on experience of using both strategies to evaluate simple ARIMA models.
 * ✅ Understand the limitations of basic train-test split strategies.
-* 🎁 **Bonus**: Gained expertise in generating and plotting ARIMA prediction intervals.
+* 🎁 **Bonus**: Gain expertise in generating and plotting ARIMA prediction intervals.
 
 ## License
 
@@ -27,7 +27,6 @@ title = {{TheOpenScienceNerd - introduction to time series train test split}},
 url = {https://github.com/TheOpenScienceNerd/temporal_train_test_split}
 }
 ```
-
 
 ## Installation instructions
 
